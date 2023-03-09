@@ -1,0 +1,1 @@
+In case you're seeing this README, I just simply translated the flash writter into Brazilian Portuguese, I didn't put any malicious code in case you want to check it out, and I just uploaded it to github to help people in the PS3 scene.
